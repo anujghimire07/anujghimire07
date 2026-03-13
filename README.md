@@ -50,13 +50,13 @@ Many of my repositories contain practice code, notes, and experiments that refle
 ## Future technologies I plan to learn:
 - Advanced backend development
 - Database optimization
-- Full-stack architecture
+- MERN-stack architecture
 
 ---
 
 ## 🎯 2026 Goals
 - Become confident in frontend development
-- Start building full-stack web applications
+- Start building MERN-stack web applications
 - Build several complete web projects
 - Understand modern web development architecture
 
@@ -76,7 +76,7 @@ Feel free to explore my repositories and follow my learning journey.
 - 🌱 Currently learning React.js and Node.js
 - 👯 Looking to collaborate on frontend and backend projects and open source
 - 💬 Ask me about Javascript, NoSQL, Web Development
-- ⚡ Fun fact: I love solving making projects with solve real world problems
+- ⚡ Fun fact: I love making projects to solve real world problems
 
 ---
 
