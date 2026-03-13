@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋Hi There, I'm Anuj Ghimire
+Web Development Learner |  Future MERN Stack Developer | JavaScript Enthusiast
+📍 Based in Kathmandu, Nepal
+🌱 Currently learning HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
+🚀 Interested in Frontend and Backend Development
 
-<!--
-**anujghimire07/anujghimire07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚧 What I'm Currently Working On
+- Practicing HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
+- Building small web development projects
+- Strengthening programming fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 2026 Goals
+- Become confident in frontend development
+- Start building full-stack web applications
+- Build several complete web projects
+- Understand modern web development architecture
+
+📚 My Learning Journey
+I am documenting my progress as I learn web development.
+Many of my repositories contain practice code, notes, and experiments that reflect my learning process.
+
+🛠️ Tech Stack
+Languages
+JavaScript SQL HTML5 CSS3
+
+Frameworks & Libraries
+React.js 
+
+Databases
+PostgreSQL MySQL SQLite
+
+Tools & Technologies
+Git GitHub VS Code Docker
+Future technologies I plan to learn:
+- Advanced backend development
+- Database optimization
+- Full-stack architecture
+
+🤝 Let's Connect
+Feel free to explore my repositories and follow my learning journey.
+
+📌 Quick Facts
+💻 I code primarily in Javascript and NoSQL
+🌱 Currently learning React.js and Node.js
+👯 Looking to collaborate on frontend and backend projects and open source
+💬 Ask me about Javascript, NoSQL, Web Development
+⚡ Fun fact: I love solving making projects with solve real world problems
