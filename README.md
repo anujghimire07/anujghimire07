@@ -1,9 +1,9 @@
 # 👋Hi There, I'm Anuj Ghimire
 ### Web Development Learner |  Future MERN Stack Developer | JavaScript Enthusiast
 
-📍 Based in Kathmandu, Nepal
-🌱 Currently learning HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
-🚀 Interested in Frontend and Backend Development
+- 📍 Based in Kathmandu, Nepal
+- 🌱 Currently learning HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
+- 🚀 Interested in Frontend and Backend Development
 
 ---
 
@@ -65,14 +65,31 @@ Many of my repositories contain practice code, notes, and experiments that refle
 
 ## 🤝 Let's Connect
 Feel free to explore my repositories and follow my learning journey.
+
 [![Email](https://img.shields.io/badge/Email-aniujghimire41@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:anujghimire41@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-ghimire-788279348/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anujghimire07)
 
 ---
 ## 📌 Quick Facts
-💻 I code primarily in Javascript and NoSQL
-🌱 Currently learning React.js and Node.js
-👯 Looking to collaborate on frontend and backend projects and open source
-💬 Ask me about Javascript, NoSQL, Web Development
-⚡ Fun fact: I love solving making projects with solve real world problems
+- 💻 I code primarily in Javascript and NoSQL
+- 🌱 Currently learning React.js and Node.js
+- 👯 Looking to collaborate on frontend and backend projects and open source
+- 💬 Ask me about Javascript, NoSQL, Web Development
+- ⚡ Fun fact: I love solving making projects with solve real world problems
+
+---
+
+<div align="center">
+  
+ ### Streak Stats
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujghimire07&theme=dark&hide_border=true)
+
+  ---
+
+  ### Profile Views
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=anujghimire07&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+</div>
