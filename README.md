@@ -8,22 +8,22 @@ Web Development Learner |  Future MERN Stack Developer | JavaScript Enthusiast
 🚀 Interested in Frontend and Backend Development
 
 
-🚧 What I'm Currently Working On
+## 🚧 What I'm Currently Working On
 - Practicing HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
 - Building small web development projects
 - Strengthening programming fundamentals
 
-🎯 2026 Goals
+##🎯 2026 Goals
 - Become confident in frontend development
 - Start building full-stack web applications
 - Build several complete web projects
 - Understand modern web development architecture
 
-📚 My Learning Journey
+##📚 My Learning Journey
 I am documenting my progress as I learn web development.
 Many of my repositories contain practice code, notes, and experiments that reflect my learning process.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Languages
 JavaScript SQL HTML5 CSS3
 
@@ -33,17 +33,18 @@ React.js
 Databases
 PostgreSQL MySQL SQLite
 
-Tools & Technologies
+##Tools & Technologies
 Git GitHub VS Code Docker
-Future technologies I plan to learn:
+
+33Future technologies I plan to learn:
 - Advanced backend development
 - Database optimization
 - Full-stack architecture
 
-🤝 Let's Connect
+33🤝 Let's Connect
 Feel free to explore my repositories and follow my learning journey.
 
-📌 Quick Facts
+33📌 Quick Facts
 💻 I code primarily in Javascript and NoSQL
 🌱 Currently learning React.js and Node.js
 👯 Looking to collaborate on frontend and backend projects and open source
