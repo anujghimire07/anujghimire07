@@ -1,5 +1,5 @@
 # 👋Hi There, I'm Anuj Ghimire
-### Web Development Learner |  Future MERN Stack Developer | JavaScript Enthusiast
+### Web Developer |  MERN Stack | JavaScript 
 
 - 📍 Based in Kathmandu, Nepal
 - 🌱 Currently learning HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
