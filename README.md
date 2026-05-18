@@ -1,8 +1,8 @@
 # 👋Hi There, I'm Anuj Ghimire
-### Web Developer |  MERN Stack | JavaScript 
+### Web Developer |  PERN Stack | JavaScript 
 
 - 📍 Based in Kathmandu, Nepal
-- 🌱 Currently learning HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
+- 🌱 Currently learning HTML, CSS, JavaScript, React, PostgreSQL, Node.js, and Express.js
 - 🚀 Interested in Frontend and Backend Development
 
 ---
@@ -24,8 +24,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 
 ### Tools & Technologies
@@ -37,7 +38,7 @@
 
 
 ## 🚧 What I'm Currently Working On
-- Practicing HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
+- Practicing HTML, CSS, JavaScript, React, PostgreSQL, Node.js, and Express.js
 - Building small web development projects
 - Strengthening programming fundamentals
 
@@ -50,7 +51,7 @@ Many of my repositories contain practice code, notes, and experiments that refle
 ## Future technologies I plan to learn:
 - Advanced backend development
 - Database optimization
-- MERN-stack architecture
+- PERN-stack architecture
 
 ---
 
@@ -72,10 +73,10 @@ Feel free to explore my repositories and follow my learning journey.
 
 ---
 ## 📌 Quick Facts
-- 💻 I code primarily in Javascript and NoSQL
+- 💻 I code primarily in Javascript and SQL
 - 🌱 Currently learning React.js and Node.js
 - 👯 Looking to collaborate on frontend and backend projects and open source
-- 💬 Ask me about Javascript, NoSQL, Web Development
+- 💬 Ask me about Javascript, SQL, Web Development
 - ⚡ Fun fact: I love making projects to solve real world problems
 
 ---
