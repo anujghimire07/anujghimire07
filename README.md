@@ -57,7 +57,7 @@ Many of my repositories contain practice code, notes, and experiments that refle
 
 ## 🎯 2026 Goals
 - Become confident in frontend development
-- Start building MERN-stack web applications
+- Start building PERN-stack web applications
 - Build several complete web projects
 - Understand modern web development architecture
 
