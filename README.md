@@ -1,9 +1,9 @@
 # 👋Hi There, I'm Anuj Ghimire
-### Web Developer |  PERN Stack | JavaScript 
+### Web Developer |  MERN Stack | JavaScript 
 
 - 📍 Based in Kathmandu, Nepal
-- 🌱 Currently learning HTML, CSS, JavaScript, React, PostgreSQL, Node.js, and Express.js
-- 🚀 Interested in Frontend and Backend Development
+- 🌱 Currently learning HTML, CSS, JavaScript, React, PostgreSQL, MongoDB, Node.js, and Express.js
+- 🚀 Interested in Fullstack Development
 
 ---
 
@@ -22,24 +22,27 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
 ### Tools & Technologies
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 
 ## 🚧 What I'm Currently Working On
-- Practicing HTML, CSS, JavaScript, React, PostgreSQL, Node.js, and Express.js
-- Building small web development projects
+- Practicing HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
+- Building small fullstack projects
 - Strengthening programming fundamentals
 
 ---
@@ -56,8 +59,8 @@ Many of my repositories contain practice code, notes, and experiments that refle
 ---
 
 ## 🎯 2026 Goals
-- Become confident in frontend development
-- Start building PERN-stack web applications
+- Become confident in fullstack development
+- Start building MERN-stack web applications
 - Build several complete web projects
 - Understand modern web development architecture
 
@@ -73,10 +76,10 @@ Feel free to explore my repositories and follow my learning journey.
 
 ---
 ## 📌 Quick Facts
-- 💻 I code primarily in Javascript and SQL
+- 💻 I code primarily in Javascript and NoSQL
 - 🌱 Currently learning React.js and Node.js
-- 👯 Looking to collaborate on frontend and backend projects and open source
-- 💬 Ask me about Javascript, SQL, Web Development
+- 👯 Looking to collaborate on fullstack projects and open source
+- 💬 Ask me about Javascript, SQL, NoSQL, Web Development
 - ⚡ Fun fact: I love making projects to solve real world problems
 
 ---
