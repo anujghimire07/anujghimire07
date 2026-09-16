@@ -86,15 +86,30 @@ Feel free to explore my repositories and follow my learning journey.
 <div align="center">
   
  ### Streak Stats
-
-## 📊 GitHub Stats
+## 🚀 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujghimire07&show_icons=true&theme=dark)
 
+---
+
+## 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=anujghimire07&theme=dark&hide_border=true)
 
+---
+
+## 💻 Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujghimire07&layout=compact&theme=dark)
-  ---
+
+---
+
+## 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=anujghimire07&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 
   ### Profile Views
 
