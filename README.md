@@ -103,12 +103,9 @@ Feel free to explore my repositories and follow my learning journey.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujghimire07&layout=compact&theme=dark)
 
 ---
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anujghimire07&show_icons=true&theme=dark)
 
-## 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=anujghimire07&label=Profile%20views&color=0e75b6&style=flat)
-
----
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujghimire07&layout=compact&theme=dark)
 
 
   ### Profile Views
