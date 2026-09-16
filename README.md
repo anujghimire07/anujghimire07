@@ -87,7 +87,7 @@ Feel free to explore my repositories and follow my learning journey.
   
  ### Streak Stats
 
-  ![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=anujghimire07&theme=dark&hide_border=true](https://streak-stats.demolab.com?user=anujghimire07&theme=dark))
+  ![GitHub Streak]([[https://github-readme-streak-stats.herokuapp.com/?user=anujghimire07&theme=dark&hide_border=true](https://streak-stats.demolab.com?user=anujghimire07&theme=dark)](https://github-readme-stats.vercel.app/api?username=anujghimire07&show_icons=true&theme=dark))
 
   ---
 
