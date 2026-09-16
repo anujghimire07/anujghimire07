@@ -86,11 +86,7 @@ Feel free to explore my repositories and follow my learning journey.
 <div align="center">
   
  ### Streak Stats
-## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujghimire07&show_icons=true&theme=dark)
-
----
 
 ## 🔥 GitHub Streak
 
@@ -98,14 +94,6 @@ Feel free to explore my repositories and follow my learning journey.
 
 ---
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujghimire07&layout=compact&theme=dark)
-
----
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anujghimire07&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujghimire07&layout=compact&theme=dark)
 
 
   ### Profile Views
