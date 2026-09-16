@@ -87,9 +87,6 @@ Feel free to explore my repositories and follow my learning journey.
   
  ### Streak Stats
 
-
-## 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=anujghimire07&theme=dark&hide_border=true)
 
 ---
